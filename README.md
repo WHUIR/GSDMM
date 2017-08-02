@@ -15,6 +15,14 @@ The data format is described as follows:
 
 Each line represents a document, the words in document are separated by a single blank space.
 
+You also need to provide word2id file for launching the program, the data format is described as follows:
+> word id
+
+Each line represents a word , the word and its id is separated by a blank space
+
+**example**:
+> apple,0
+
 ## Parameter Explanation
 
 `beta`: the hyper-parameter beta, and the alpha is calculated as 50/numTopic.
