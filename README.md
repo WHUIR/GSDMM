@@ -13,7 +13,7 @@ This repository doesn't contain the preprocess steps. So if you want to use this
 The data format is described as follows:
 >word word word
 
-Each line represents a document, the words in document are seperated by a single blank space.
+Each line represents a document, the words in document are separated by a single blank space.
 
 ## Parameter Explanation
 
