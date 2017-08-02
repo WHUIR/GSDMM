@@ -1,6 +1,8 @@
 # GSDMM
-Our implementation of collapsed Gibbs Sampling algorithm for Dirichlet Multinomial Mixture model (GSDMM) (published in KDD 2014)
+Our implementation of collapsed Gibbs Sampling algorithm for Dirichlet Multinomial Mixture model (GSDMM), as described in KDD 2014 paper:
 
-The full name of the paper is "A Dirichlet Multinomial Mixture Model-based Approach for
-Short Text Clustering"
+**A Dirichlet Multinomial Mixture Model-based Approach for
+Short Text Clustering**
+
+The GSDMM is a short text clustering algorithm.
 
