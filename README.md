@@ -11,7 +11,8 @@ The GSDMM is a short text clustering algorithm.
 This repository doesn't contain the preprocess steps. So if you want to use this code, you should prepare the data by yourself. 
 
 The data format is described as follows:
->word word word\nword word word
+>word word word
+>word word word
 
 ## Parameter Explanation
 
