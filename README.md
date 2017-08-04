@@ -21,7 +21,7 @@ You also need to provide word2id file for launching the program, the data format
 Each line represents a word , the word and its id is separated by a blank space
 
 **example**:
-> apple,0
+> apple 0
 
 ## Parameter Explanation
 
